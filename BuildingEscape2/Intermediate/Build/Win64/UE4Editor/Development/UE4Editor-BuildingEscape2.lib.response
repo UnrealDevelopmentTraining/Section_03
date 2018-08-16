@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BuildingEscape2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files (x86)\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\jesus\Documents\UnrealCourse2\Section_03\BuildingEscape2\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape2\BuildingEscape2.cpp.obj"
+"C:\Users\jesus\Documents\UnrealCourse2\Section_03\BuildingEscape2\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape2\BuildingEscape2GameModeBase.cpp.obj"
+"C:\Users\jesus\Documents\UnrealCourse2\Section_03\BuildingEscape2\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape2\BuildingEscape2.init.gen.cpp.obj"
+"C:\Users\jesus\Documents\UnrealCourse2\Section_03\BuildingEscape2\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape2\BuildingEscape2GameModeBase.gen.cpp.obj"
+"C:\Program Files (x86)\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape2\PCLaunch.rc.res"
+"C:\Program Files (x86)\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\jesus\Documents\UnrealCourse2\Section_03\BuildingEscape2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape2.lib"
